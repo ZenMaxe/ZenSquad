@@ -1,6 +1,0 @@
-@ZenSquad.Api_HostAddress = http://localhost:5051
-
-GET {{ZenSquad.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
